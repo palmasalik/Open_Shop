@@ -1,0 +1,481 @@
+@media(max-width:1290px){
+    .container{
+        max-width:1140px;
+    }
+    .dada{width: 50%;text-align: center;}
+    .gopa {
+        width: 100%;
+        position: absolute;
+        top: 40px;
+        left: 0;
+    }
+    .posaone {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+    }
+    .posatwo {
+        position: absolute;
+        top: 9px;
+        z-index: 4;
+        width: 101%;
+        left: 0;
+    }
+    .ggrat , .ffeaa{width: max-content;}
+.alohawe{
+    flex-wrap: nowrap;    margin-bottom: 45px;
+}
+.main-right{
+    width: 50%;
+}
+.gfer{
+    width: 75%;
+}
+.eeda {
+    margin-top: 312px;
+}
+.main-left {
+    width: 50%;
+    margin-top: 15px;
+}
+.logotip {
+    width: 100%;
+}
+.section__card{width: 40%; margin: 0 auto;}
+.col-xl-3{
+    width: 50%;
+}
+.rota{margin-top: 40px;}
+}
+@media(max-width:1140px){
+    .container{
+        max-width:960px;
+    }
+    .gopa {
+        width: 100%;
+        position: absolute;
+        top: 82px;
+        left: 0;
+    }
+    
+    .posatwo {
+        position: absolute;
+        top: 51px;
+        z-index: 4;
+        width: 101%;
+        left: 0;
+    }
+    .discount {
+        width: 55px;
+        height: 55px;
+    }
+    .discount.discount__bottom {
+        bottom: 3px;
+    }
+    .imgs__title {
+        font-size: 15px;
+        width: 140px;
+    }
+    .imgs__title.bottom {
+        line-height: 27px; 
+        width: 36%;
+    }
+    .stylo {
+        width: 340px;
+    }
+    .fvr {
+        font-size: 15px;
+        padding: 11px 40px;
+    }
+    .para {
+        width: 309px;
+        margin-bottom: 30px;
+        font-size: 33px;
+        line-height: 34px;
+    }
+}
+
+@media(max-width:960px){
+    .container{
+        max-width:720px;
+    }
+    .dada {
+        width: 0;
+        margin-right: 100px;
+        text-align: center;
+    }
+    .kola {
+        margin: 0;
+        margin-bottom: 213px;
+    }
+    .asdfzxvqwr {
+        position: relative;
+        margin-bottom: 51px;
+    }
+    .gopa {
+        width: 100%;
+        position: absolute;
+        top: 195px;
+        left: 0;
+    }
+    .awddw{width: max-content;}
+    .posatwo {
+        position: absolute;
+        top: 136px;
+        z-index: 4;
+        width: 101%;
+        left: 0;
+    }
+    .ggrat, .ffeaa {
+        width: auto;
+    }
+    .cvnb {
+        height: 50px;
+        font-size: 13px;
+        padding: 8px 100px 8px 10px;
+    }
+    .ggg {
+        height: 50px;
+        font-size: 12px;
+        padding: 16px 14px 15px 14px;
+    }
+.lotus{
+    max-width: 145px;
+}
+.logotip {
+    font-size: 31px;
+    line-height: 47px;
+}
+.butik {
+    font-size: 15px;
+    line-height: 20px;
+}
+
+.imgs__img {
+    width: 80%;
+    height: 80%;
+    display: flex;
+    margin: 0 auto;
+}
+.discount , .imgs__title.bottom , .imgs__price.bottom , .imgs__title.Xiaomi , .imgs__price , .imgs__title{left: 100px !important;}
+
+.discount.discount__bottom {
+   top: 103px;
+}
+.imgs__title {
+    font-size: 23px;
+    width: max-content;
+}
+.imgs__price {
+    top: 35px;
+}
+.weia , .wihe{width: 200px;     height: 200px;}
+.wefa{
+    display: block;
+    text-align: center;
+}
+.formula ,.popaa {
+    justify-content: center;
+}
+.gorat {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.iconchki {
+    margin-top: 0;
+}
+.aww{width: 200px;}
+.para {width: 340px;
+    margin-bottom: 30px;
+}
+.imgs__title.rema{
+    top: 265px;
+}
+.imgs__price.rem{
+    top: 275px;
+}
+
+}
+@media(max-width:720px){
+    .container{
+        max-width:540px;
+    }
+    .gasfqe{
+        width: 361px;
+        height: 361px;
+    }
+    .posatwo {
+        position: absolute;
+        top: 169px;
+        z-index: 4;
+        width: 100%;
+        left: 0;
+    }
+    .eeda {
+        margin-top: 236px;
+    }
+    .posaone {
+        position: absolute;
+        top: 78px;
+        left: 0;
+        width: 100%;
+    }
+    .phone::before ,.shop::before , .alien:before {
+        padding-right: 16px;
+    }
+    .nav-link {
+        padding: 15px 32px;
+    }
+    .about {
+        display: block;
+        padding-top: 18px;
+    }
+    .rrr {
+        justify-content: center;
+    }
+
+    .logotip {
+        font-size: 23px;
+        line-height: 38px;
+    }
+    .alohawe {
+        margin-bottom: 60px;
+    }
+    .imgs__title.rema {
+        top: 162px;
+    }
+    .imgs__price.rem {
+        top: 197px;
+    }
+    .imgs__title.bottom {
+        bottom: 16px;
+        left: 20px;
+    }
+    .discount, .imgs__title.bottom, .imgs__price.bottom, .imgs__title.Xiaomi, .imgs__price, .imgs__title {
+        left: 65px !important;
+    }
+    .imgs__title {
+        font-size: 19px;
+
+    }
+    .imgs__price.bottom {
+     bottom: -21px;
+    }
+    .imgs__price {
+        font-size: 21px;
+    }
+.retaa{display: block;}
+.col-xl-3 {
+    width: 100%;
+}
+.section__card {
+    width: 45%;
+    margin: 5px auto;
+}
+.para {
+    width: 168px;
+    margin-bottom: 30px;
+    font-size: 26px;
+    line-height: 34px;
+}
+.cell {
+    font-size: 30px;
+}
+}
+@media(max-width:540px){
+
+.container{width: 100%;}
+.gasfqe {
+    width: 300зч;
+    height: 300px;
+    width: 300px;
+}
+.kola {
+    max-width: fit-content;
+}
+.phone, .shop, .alien {
+    margin-right: -27px;
+}
+.posatwo {
+    position: absolute;
+    top: 265px;
+    z-index: 4;
+    width: 100%;
+    left: 0;
+}
+.nav-link {
+    padding: 15px 17px;
+}
+.cvnb {
+    height: 44px;
+    font-size: 11px;
+    padding: 8px 20px 8px 10px;
+}
+.ggg {
+    height: 44px;
+    font-size: 10px;
+    padding: 11px 12px 7px 9px;
+}
+.search::before {
+    font-size: 15px;
+}
+.lotus {
+    max-width: 120px;
+}
+.logotip {
+    font-size: 18px;
+    line-height: 24px;
+}
+.butik {
+    font-size: 12px;
+    line-height: 9px;
+}
+.discount {
+    width: 45px;
+    height: 45px;
+    font-size: 15px;
+
+}
+.imgs__title.rema {
+    top: 130px;
+}
+.imgs__price.rem {
+    top: 160px;
+}
+.imgs__price {
+    font-size: 17px;
+}
+.imgs__title {
+    font-size: 16px;
+}
+.imgs__title.bottom {
+    line-height: 23px;
+    width: 36%;
+}
+.bagrau{height: 300px;}
+.stylo {
+    width: 240px;
+    height: 42px;
+}
+.fvr {
+    font-size: 13px;
+    padding: 0px 28px;
+}
+
+}
+@media(max-width:450px){
+
+.container{width: 100%;}
+.phone, .shop, .alien {
+    margin-right: -17px;
+    display: none;
+}
+.nifa{
+    display: block;
+}
+.dada {
+    width: auto;
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+}
+.kola {
+    margin: 0;
+    margin-bottom: 138px;
+}
+
+.nav-link {
+    padding: 15px 7px;
+}
+.imgs__title.rema {
+    top: 112px;
+}
+.imgs__price.rem {
+    top: 136px;
+}
+.gopa {
+    width: 100%;
+    position: absolute;
+    top: 177px;
+    left: 0;
+}
+}
+@media(max-width:400px){
+    .container{width: 100%;}
+    .nav-link {
+        padding: 9px 23px;
+    }
+    .posatwo {
+        top: 238px;
+
+    }
+    .ffeaa {
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 28px;
+        color: #313131;
+    }
+    .ggrat {
+    font-weight: 600;
+    font-size: 33px;
+    line-height: 43px;
+    color: #313131;
+}
+    
+    .phone::before, .shop::before, .alien:before {
+        padding-right: 11px;
+        padding-top: 38px;
+    }
+    .rrr {
+        display: block;
+        text-align: center;
+    }
+    .cvnb {
+        height: 44px;
+        font-size: 12px;
+        padding: 8px 87px 8px 10px;
+    }
+    .butik {
+        padding: 9px;
+        width: 115px;
+        font-size: 11px;
+        line-height: 14px;
+    }
+    .gfer {
+    width: 108%;
+}
+.discount, .imgs__title.bottom, .imgs__price.bottom, .imgs__title.Xiaomi, .imgs__price, .imgs__title {
+    left: 48px !important;display: none;
+}
+.imgs__title {
+    font-size: 13px;display: none;
+}
+.discount.discount__bottom {
+    top: 92px;display: none;
+}
+.imgs__title.rema {
+    top: 87px;    line-height: 20px;display: none;
+
+}
+.imgs__price.rem {
+    top: 100px;display: none;
+}
+.fal {
+    margin-top: -28px;
+}.cell {
+    font-size: 21px;
+}
+.stylo {
+    width: 168px;
+    height: 40px;
+}
+.fvr {
+    font-size: 12px;
+    padding: 0px 20px;
+}
+.awddw {
+
+    font-size: 43px;
+}
+}
